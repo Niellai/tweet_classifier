@@ -44,8 +44,14 @@
   "BKE": "Bukit Timah Expressway",
   "KJE": "Kranji Expressway",
   "MCE": "Marina Coastal Expressway",
-  "nsline": "nsl",
-  "ewline": "ewl",
-  "ccline": "ccl"
-  "amk": "ang mo kio"
+  "gdn": "garden",
+  "gdns": "gardens",
+  "amk": "ang mo kio",
+  "yck": "yio chu kang",
+  "je": "Jurong East",
+  "dg": "Dhoby Ghaut",
+  "hpv": "Haw Par Villa",
+  "msp": "Marina South Pier",
+  "cck": "Choa Chu Kang",
+  "dhoby": "Dhoby Ghaut"
 }
