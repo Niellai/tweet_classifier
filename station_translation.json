@@ -199,6 +199,26 @@
 	"id": "EW29"
 },
 {
+	"name": "Gul Circle",
+	"ch_name": "卡尔圈",
+	"id": "EW30"
+},
+{
+	"name": "Tuas Crescent",
+	"ch_name": "大士弯",
+	"id": "EW31"
+},
+{
+	"name": "Tuas West Road",
+	"ch_name": "大士西路",
+	"id": "EW32"
+},
+{
+	"name": "Tuas Link",
+	"ch_name": "大士连路",
+	"id": "EW33"
+},
+{
 	"name": "Bartley",
 	"ch_name": "巴特礼",
 	"id": "CC12"
@@ -697,4 +717,69 @@
 	"name": "Rochor",
 	"ch_name": "梧槽",
 	"id": "DT13"
+},
+{
+	"name": "Fort Canning",
+	"ch_name": "福康宁",
+	"id": "DT20"
+},
+{
+	"name": "Bencoolen",
+	"ch_name": "明古连",
+	"id": "DT21"
+},
+{
+	"name": "Jalan Besar",
+	"ch_name": "惹兰勿刹",
+	"id": "DT22"
+},
+{
+	"name": "Bendemeer",
+	"ch_name": "明地迷亚",
+	"id": "DT23"
+},
+{
+	"name": "Geylang Bahru",
+	"ch_name": "芽笼峇鲁",
+	"id": "DT24"
+},
+{
+	"name": "Mattar",
+	"ch_name": "玛达",
+	"id": "DT25"
+},
+{
+	"name": "Ubi",
+	"ch_name": "乌美",
+	"id": "DT27"
+},
+{
+	"name": "Kaki Bukit",
+	"ch_name": "加基武吉",
+	"id": "DT28"
+},
+{
+	"name": "Bedok North",
+	"ch_name": "勿洛北",
+	"id": "DT29"
+},
+{
+	"name": "Bedok Reservoir",
+	"ch_name": "勿洛蓄水池",
+	"id": "DT30"
+},
+{
+	"name": "Tampines West",
+	"ch_name": "淡滨尼西",
+	"id": "DT31"
+},
+{
+	"name": "Tampines East",
+	"ch_name": "淡滨尼东",
+	"id": "DT33"
+},
+{
+	"name": "Upper Changi",
+	"ch_name": "樟宜上段",
+	"id": "DT34"
 }]
